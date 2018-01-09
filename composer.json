@@ -1,0 +1,12 @@
+{
+    "name": "alyson/pages",
+    "authors": [
+        {
+            "name": "Alyson Rodrigo",
+            "email": "g.dasilva@hotmail.com"
+        }
+    ],
+    "require": {
+        "alyson/location": "dev-master"
+    }
+}
