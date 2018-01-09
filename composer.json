@@ -18,7 +18,10 @@
         "laravel": {
             "providers": [
                 "Modules\\Pages\\Providers\\PageServiceProvider"
-            ]
+            ],
+            "aliases": {
+                
+            }
         }
     }
 }
